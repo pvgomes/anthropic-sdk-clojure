@@ -1,0 +1,10 @@
+.cpcache/
+.nrepl-port
+.rebel_readline_history
+target/
+.calva/
+.clj-kondo/
+.lsp/
+pom.xml
+*jar
+*.class
