@@ -1,11 +1,9 @@
 # Anthropic Clojure SDK
 
 > [!NOTE]
-> The Anthropic Clojure SDK is currently in **beta** and we're excited for you to experiment with it!
+> The Anthropic Clojure SDK is not **official** 
 >
-> This library is a community implementation based on the official PHP SDK and may be missing some features or have differences from official SDKs. As development continues, there may be breaking changes that require updates to your code.
->
-> **We'd love your feedback!** Please share any suggestions, bug reports, or feature requests by filing an issue.
+
 
 The Anthropic Clojure library provides convenient access to the Anthropic REST API from any Clojure application.
 
